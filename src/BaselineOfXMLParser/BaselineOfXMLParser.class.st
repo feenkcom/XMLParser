@@ -1,6 +1,6 @@
 Class {
 	#name : #BaselineOfXMLParser,
-	#superclass : #Object,
+	#superclass : #BaselineOf,
 	#instVars : [
 		'project'
 	],
