@@ -1,9 +1,6 @@
 Class {
 	#name : #BaselineOfXMLParser,
 	#superclass : #BaselineOf,
-	#instVars : [
-		'project'
-	],
 	#classVars : [
 		'LastVersionLoad'
 	],
