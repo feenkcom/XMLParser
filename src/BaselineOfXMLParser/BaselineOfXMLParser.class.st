@@ -11,12 +11,13 @@ Class {
 BaselineOfXMLParser >> baseline: spec [
    <baseline>
 	spec for: #'common' do: [
+		spec
+				baseline: 'BitmapCharacterSet' with: [
+				spec repository: 'github://feenkcom/BitmapCharacterSet/src' ].
 		spec 
 			package: #'XML-Parser';
 			package: #'XML-Tests-Parser'.
-		spec
-				baseline: 'BitmapCharacterSet' with: [
-				spec repository: 'github://feenkcom/BitmapCharacterSet/src' ]
+
 		].
 
 
