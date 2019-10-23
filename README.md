@@ -6,4 +6,5 @@ This is a copy and fork of the project from: http://www.smalltalkhub.com/#!/~Pha
   Metacello new
     baseline: 'XMLParser';
     repository: 'github://feenkcom/XMLParser/src';
-    load.```
+    load.
+ ```
