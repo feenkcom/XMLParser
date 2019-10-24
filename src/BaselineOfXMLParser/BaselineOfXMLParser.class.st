@@ -16,7 +16,7 @@ BaselineOfXMLParser >> baseline: spec [
 				spec repository: 'github://pharo-contributions/OrderPreservingDictionary/src' ].
 		spec
 				baseline: 'BitmapCharacterSet' with: [
-				spec repository: 'github://feenkcom/BitmapCharacterSet/src' ].
+				spec repository: 'github://pharo-contributions/BitmapCharacterSet/src' ].
 		spec 
 			package: #'XML-Parser';
 			package: #'XML-Tests-Parser'.
