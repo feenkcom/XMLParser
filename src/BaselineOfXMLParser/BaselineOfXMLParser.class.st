@@ -13,7 +13,7 @@ BaselineOfXMLParser >> baseline: spec [
 	spec for: #'common' do: [
 		spec 
 			baseline: 'OrderPreservingDictionary' with: [
-				spec repository: 'github://pharo-contributions/OrderPreservingDictionary:e431f99b220d9e0d6fb40942b199c0002b73b24a/src' ];
+				spec repository: 'github://pharo-contributions/OrderPreservingDictionary:bee45d74ab513cf6230bdda2dcbaecd46905f7e6/src' ];
 			baseline: 'BitmapCharacterSet' with: [
 				spec repository: 'github://pharo-contributions/BitmapCharacterSet:dd8c3de8fc58eab9f9a4e54a7c1f07bb2385c599/src' ].
 		spec 
